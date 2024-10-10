@@ -1,0 +1,8 @@
+# Do not change the order and "#" of this file.
+1  # is_get_pos_mode: get cursor position and window
+0  # is_click_mode: start autoclick
+1.0  # waite_time: wait time for click and wait
+1  # printstep: print step
+target_pos_window.txt  # fname_tops_window: filename of target pos and windows
+fname_out.csv  # fname_outcsv: filename of output csv
+1  # is_pause_console: pause console after program completion
